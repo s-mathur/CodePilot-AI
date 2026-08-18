@@ -1,0 +1,13 @@
+streamlit
+google-genai
+sentence-transformers
+faiss-cpu
+langgraph
+networkx
+matplotlib
+gitpython
+watchdog
+pydantic
+pytest
+numpy
+pandas
